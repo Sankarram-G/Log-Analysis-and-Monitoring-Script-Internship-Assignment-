@@ -3,7 +3,7 @@
 This script automates the analysis and monitoring of log files. It continuously monitors a specified log file for new entries, looks for specific keywords, and logs occurrences of those keywords. Each time a new log entry is detected, it performs log analysis by counting the occurrences of specific keywords (e.g., "ERROR", "WARNING", "CRITICAL") within that log entry. After analyzing each log entry, the script generates a summary report that includes the counts of these keywords. The summary report is appended to the log_analysis_file specified in the script.
 
 ## Usage
-
+ - Linux Environment 
 ### Requirements
 
 - Bash shell environment
