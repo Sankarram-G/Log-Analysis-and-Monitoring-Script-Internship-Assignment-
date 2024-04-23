@@ -55,7 +55,3 @@ To test the script, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the development of this script, feel free to submit a pull request with your proposed changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
